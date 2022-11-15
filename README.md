@@ -1,1 +1,1 @@
-README.md
+Hello, I am kfry33, I have been coding for about 5 years now. I am currently in school to learn the core foundations and correct pocesses of web development. 
